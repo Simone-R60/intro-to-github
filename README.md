@@ -1,2 +1,4 @@
-# intro-to-github
-My first GitHub repository for PLTW Computer Science
+# My First GitHub Repository
+**Name**: [Simone Rogers]
+**Class**: PLTW Computer Ssience
+**Date**: [Today's Date]
